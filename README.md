@@ -1,6 +1,6 @@
 # Tatweer Accounting
 
-![Version](https://img.shields.io/badge/version-1.1.2026-blue)
+![Version](https://img.shields.io/badge/version-2.1.2026-blue)
 
 
 Customizations for ERPNext accounting module.
